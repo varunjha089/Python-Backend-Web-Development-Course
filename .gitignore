@@ -1,0 +1,8 @@
+# Directories
+.idea
+
+# Secrets Files
+.env
+
+# Database files
+db.sqlite3
